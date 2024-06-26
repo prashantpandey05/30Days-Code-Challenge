@@ -1,5 +1,6 @@
 //  https://leetcode.com/problems/string-to-integer-atoi/
 
+
 let myAtoi = function(s) {
   const ans = Number.parseInt(s);
      if (ans) {
